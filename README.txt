@@ -4,3 +4,4 @@ Jak urzywać:
 - Wybierz pojedyńczy plik, bądź cały folder,
 - Generuj nowy klucz szyfrujący lub wskaż własny (plik .key),
 - Wybierz czy chcesz zaszyfrować czy odszyfrować wybrany plik lub zawartość foleru.
+UWAGA: Używasz na swoją odpowiedzialność, za wszelkie wyrządzone szkody autor tego programu (MichalZx) nie odpowiada!
